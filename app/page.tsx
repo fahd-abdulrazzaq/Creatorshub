@@ -778,9 +778,9 @@ function SpacesSection() {
     },
     {
       id: 12,
-      title: "New Episode Title - Please Update",
-      duration: "0:00:00",
-      link: "",
+      title: "From wallet point to practical steps to represent Arichain better",
+      duration: "---",
+      link: "https://x.com/AlisonSokuma/status/1959617150164889653",
     },
   ]
 
