@@ -1220,11 +1220,10 @@ function MusicSection() {
 }
 
 function AboutSection() {
-  
-    < section
+  return(
+    <section
       id="about-section"
-      className="py-20 bg-gradient-to-br from-primary/5 via-transparent to-secondary/5 backdrop-blur-sm"
->
+      className="py-20 bg-gradient-to-br from-primary/5 via-transparent to-secondary/5 backdrop-blur-sm" >
       <div className="container mx-auto px-8">
         <h2 className="text-4xl font-bold text-primary text-center mb-16 font-sans">About</h2>
 
@@ -1252,6 +1251,7 @@ function AboutSection() {
                 </p>
               </div>
             </div>
+</section>
 
             {/* Social Links */}
             <div className="border-t border-border/30 pt-8">
