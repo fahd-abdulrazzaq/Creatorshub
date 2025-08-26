@@ -1220,7 +1220,7 @@ function MusicSection() {
 }
 
 function AboutSection() {
-  return ()
+  return (
     < section
       id="about-section"
       className="py-20 bg-gradient-to-br from-primary/5 via-transparent to-secondary/5 backdrop-blur-sm"
