@@ -275,6 +275,7 @@ function ImageSlideshow() {
     "/z1.jpeg",
     "/z5.jpeg",
     "/z3.jpeg",
+    "/z10.jpeg",
     "/kangarooz-art1.jpeg",
     "/kangarooz-art2.jpeg",
     "/kangarooz-art3.jpeg",
@@ -425,6 +426,7 @@ function CreatorsSection() {
         "/z1.jpeg",
         "/z5.jpeg",
         "/z3.jpeg",
+        "/z10.jpeg",
         "/kangarooz-art1.jpeg",
         "/kangarooz-art2.jpeg",
         "/kangarooz-art3.jpeg",
@@ -778,9 +780,15 @@ function SpacesSection() {
     },
     {
       id: 12,
-      title: "From wallet point to practical steps to represent Arichain better",
-      duration: "---",
-      link: "https://x.com/AlisonSokuma/status/1959617150164889653",
+      title: "From Wallet point to practical steps to represent Arichain better",
+      duration: "unavailable",
+      link: "",
+    },
+    {
+      id: 13,
+      title: "Spanning Arichain's Infrastructure",
+      duration: "2:04:59",
+      link: "https://x.com/eaglechancellor/status/1962153589230457122",
     },
   ]
 
@@ -1242,13 +1250,13 @@ function AboutSection() {
                 </p>
                 <p className="text-lg mb-6">
                   The Creators Hub is a living archive, preserving every creation and idea as part of Arichain's growing
-                  legacy. It's a space where visionaries share their work, connect with a global community, and inspire
-                  the next wave of builders in the decentralized future.
+                  legacy. It's a space where members share their work, connect with the community, and inspire the next
+                  builders towards the decentralized future.
                 </p>
                 <p className="text-lg">
-                  Whether you're here to explore, to showcase your own work, or to witness how creativity fuels
-                  Arichain's ecosystem, the Creators Hub is where it all comes together. Dedicated to the creative
-                  community of Arichain.
+                  {
+                    "Wether you're here to explore, to showcase your own work, or to witness how creativity fuels Arichain's ecosystem, the Creators Hub is where it all comes together.  \nDedicated to the creative community of Arichain."
+                  }
                 </p>
               </div>
             </div>
